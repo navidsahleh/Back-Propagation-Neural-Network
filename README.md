@@ -13,3 +13,8 @@ we use these packages:
 - matplotlib.pyplot 
 - sklearn
 
+**hint**: for Mnist dataset, you can download it from above link of kaggle :
+
+```https://www.kaggle.com/c/digit-recognizer/data```
+
+
