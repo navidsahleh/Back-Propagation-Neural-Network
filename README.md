@@ -13,8 +13,5 @@ In this Repository we implement a simple neural network with python from skratch
 - matplotlib.pyplot 
 - sklearn
 
-**hint:** for Mnist dataset, you can download it from above link of kaggle :
-
-```https://www.kaggle.com/c/digit-recognizer/data```
 
 
